@@ -1,0 +1,15 @@
+SESSION 16: READINESS INVENTORY
+==================================================
+Operator: ace
+Date: 2026-04-28
+
+Confidence Audit (Yes/No):
+1. Nmap (Network Scanning): Yes
+2. Docker (Containerization): Yes
+3. Linux Hardening (UFW/chmod): Yes
+4. VS Code Remote-SSH: Yes
+
+Identify your weakest area and your plan to review it:
+Weakest area: Linux firewall rules (UFW)
+Plan: Practice rule creation and deletion, and review ICMP/TCP filtering concepts.
+==================================================
